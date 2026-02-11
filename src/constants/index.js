@@ -64,7 +64,7 @@ export const experiences = [
   {
     title: "Software Engineer",
     company_name: "Evolt (Australia)",
-    icon: "/evolt2.png",
+    icon: "/gayal-portfolio/evolt2.png",
     iconBg: "#161329",
     date: "April 2025 - Present",
     points: [
@@ -79,7 +79,7 @@ export const experiences = [
     {
         title: "Software Engineer",
         company_name: "ShinyMount Software Sri lanka",
-        icon: "/shiny.png",
+        icon: "/gayal-portfolio/shiny.png",
         iconBg: "#161329",
         date: " Present",
         points: [
@@ -89,7 +89,7 @@ export const experiences = [
     {
         title: "Software Engineer Intern",
         company_name: "Avonet Technologies (Australia)",
-        icon: "/avonet.webp",
+        icon: "/gayal-portfolio/avonet.webp",
         iconBg: "#161329",
         date: "Sep 2024 - Mar 2025 · 7 mos",
         points: [
@@ -101,7 +101,7 @@ export const experiences = [
     {
         title: "Software Engineer Intern",
         company_name: "Wso2 (Sri Lanka)",
-        icon: "/wso2new.png",
+        icon: "/gayal-portfolio/wso2new.png",
         iconBg: "#161329",
         date: "Jan 2024 - Aug 2024 · 8 mos",
         points: [
